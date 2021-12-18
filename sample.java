@@ -1,5 +1,9 @@
 package sdlc;
 
 public class sample {
-ffafasfaf
+pull from github
+
+push to github
+
+
 }
